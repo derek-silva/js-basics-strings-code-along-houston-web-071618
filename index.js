@@ -1,8 +1,8 @@
 // Write your code in this file!
 const currentUser = 'Grace Hopper';
 
-let welcomeMessage = `Welcome to Flatbook, ${currentUser}!`;
+const welcomeMessage = `Welcome to Flatbook, ${currentUser}!`;
 
-let excitedWelcomeMessage = welcomeMessage.toUpperCase();
+const excitedWelcomeMessage = welcomeMessage.toUpperCase();
 
-let shortGreeting ;
+const shortGreeting ;
